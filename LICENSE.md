@@ -25,6 +25,7 @@ Bu şartların ihlali durumunda yasal işlem başlatılabilir.
 Tüm hakları saklıdır.
 
 ––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
 📄 English Version:
 
 The software called Ritmika was developed by Polat and is proprietary.
